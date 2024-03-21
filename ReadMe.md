@@ -18,7 +18,7 @@
 
   <img position="absolute"  align="center" height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andre-rupied&theme=tokyonight&utcOffset=8"/>
 
-
+-----
 ### <p>Visitor</p>
 
 <br>
@@ -30,7 +30,5 @@
 </p>
 
 <br>
-
------
 
 </div>
